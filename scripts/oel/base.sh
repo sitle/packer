@@ -1,5 +1,5 @@
 yum check-update
-#yum -y update
+yum -y update
 
 yum install -y wget
 
